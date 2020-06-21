@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
             <option value="$PROJECT_DIR$/Problems/Complex" />
             <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Problems/Concat all strings without digits" />
             <option value="$PROJECT_DIR$/Problems/Converting and multiplying" />
             <option value="$PROJECT_DIR$/Problems/Get first and last elements" />
             <option value="$PROJECT_DIR$/Problems/Getting the fullname" />
@@ -33,6 +34,7 @@
             <option value="$PROJECT_DIR$/Problems/The angle between vectors" />
             <option value="$PROJECT_DIR$/Problems/The index of an argument" />
             <option value="$PROJECT_DIR$/Problems/The longest word" />
+            <option value="$PROJECT_DIR$/Problems/Triples" />
             <option value="$PROJECT_DIR$/Readability Score/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
